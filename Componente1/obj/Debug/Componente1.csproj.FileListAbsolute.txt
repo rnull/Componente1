@@ -1,0 +1,8 @@
+C:\Users\Roberto\UGM\Componente1\Componente1\bin\Debug\Componente1.exe.config
+C:\Users\Roberto\UGM\Componente1\Componente1\bin\Debug\Componente1.exe
+C:\Users\Roberto\UGM\Componente1\Componente1\bin\Debug\Componente1.pdb
+C:\Users\Roberto\UGM\Componente1\Componente1\bin\Debug\ClassLibrary1.dll
+C:\Users\Roberto\UGM\Componente1\Componente1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Roberto\UGM\Componente1\Componente1\obj\Debug\Componente1.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\UGM\Componente1\Componente1\obj\Debug\Componente1.exe
+C:\Users\Roberto\UGM\Componente1\Componente1\obj\Debug\Componente1.pdb
