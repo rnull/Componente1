@@ -8,14 +8,6 @@ using ClassLibrary1;
 
 namespace Componente1
 {
-    /*
-     *   aosndasjkndja
-     *   ajsndakjsndkj
-     *   aosdnajsndajksn
-     *   ajskndkasjnd
-     *   akjsndakjsdnakj
-     *   ajsndkajs
-     */
     class Program
     {
         static void Main(string[] args)
@@ -23,6 +15,7 @@ namespace Componente1
             Console.WriteLine("Componente 1");
 
             Console.WriteLine(Class1.concatena("hola ", "mundo"));
+
 
             Console.Read();
         }
